@@ -60,7 +60,7 @@ Run the following commands to your root directory to install the node packages:
 
 ## Steps to run
 ### Include the scripts in package.json
-Once the [back-end](https://github.com/AJLandry1000000000/task-management-app) has been installed, configured and started, all you have to do is start the front-end.
+Once the [back-end](https://github.com/AJLandry1000000000/task-management-app-backend-technical-assessment) has been installed, configured and started, all you have to do is start the front-end.
 In your root folder run the following ```package.json``` script to compile and start the front-end application:  
 ```npm run dev```
 
